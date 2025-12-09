@@ -1,2 +1,3 @@
 # Facebook-locked_profile-CLONE
-First Clone of a Webpage "Raw HTML and CSS"
+steps to access
+click on 1.url 2.details 3.only visit the unsafe site(Nothing is unsafe, you can see the code if you are suspicious)
